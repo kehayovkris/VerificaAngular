@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./third-component.component.css']
 })
 export class ThirdComponentComponent implements OnInit {
-
+  burzum="terzo"
   constructor() { }
 
   ngOnInit(): void {

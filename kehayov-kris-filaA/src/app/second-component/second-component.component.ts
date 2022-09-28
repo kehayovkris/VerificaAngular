@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./second-component.component.css']
 })
 export class SecondComponentComponent implements OnInit {
-
+  burzum="secondo"
   constructor() { }
 
   ngOnInit(): void {
